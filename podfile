@@ -1,0 +1,3 @@
+pod 'HHNavigationController', :git => 'https://github.com/shuoshi/HHNavigationController'
+
+
